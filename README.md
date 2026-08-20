@@ -100,11 +100,11 @@ The project generates a dashboard containing:
 
 ### Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshot/Dashboard.png)
 
 ### API Failure Test
 
-![API Failure](Screenshots/WrongURLtest.png)
+![API Failure](Screenshot/WrongURLtest.png)
 
 ## Error Handling
 
